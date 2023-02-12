@@ -8,6 +8,9 @@ Example repository to demonstrate Markdown
     h1 #
     h2 ##
     h3 ###
+    Line --- 
+    Bold ** text ** 
+    Links in text [Text](link)
     
     
     
