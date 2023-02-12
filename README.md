@@ -9,7 +9,7 @@ Example repository to demonstrate Markdown
     h2 ##
     h3 ###
     Line --- 
-    Bold ** text ** 
+    Bold **text** 
     Links in text [Text](link)
     
     
